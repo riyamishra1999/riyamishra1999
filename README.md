@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Riya, Call me RIO.
+- 👋 Hi, I’m Riya.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 -   Justtt a Newbie here!! 
