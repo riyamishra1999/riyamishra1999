@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Riya.
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 -   Justtt a Newbie here!! 
 
 <!---
